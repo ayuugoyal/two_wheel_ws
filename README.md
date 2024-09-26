@@ -48,3 +48,7 @@ This project showcases a navigation node for a two-wheel robot implemented in Ru
     ```
     ros2 run nav_node
     ```
+
+## Robot pov:
+
+![robot](images/robot.png)
